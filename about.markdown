@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Daniel Myong
+title: About
 permalink: /about/
 ---
+
+Daniel Myong
 
 6+ years in the InfoSec industry. Security Operation Lead/Analyst, Splunk Engineer and Consulting, Security Operations Engineer for Managed Detection & Resonse Services. 
 
