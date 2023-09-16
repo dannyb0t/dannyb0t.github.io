@@ -21,9 +21,10 @@
 title: Learning with Dannyb0t
 email: dannyb0t@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cybersecurity Engineer that is always learning
+  Cybersecurity Operations Engineer, always learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: danielmyong
 twitter_username: shyb0t
 github_username:  dannyb0t
 
