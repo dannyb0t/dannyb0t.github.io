@@ -10,4 +10,4 @@ Daniel Myong
 
 I enjoy ethical hacking, CTFs, and building modular inputs/Technical Add-Ons for Splunk.
 
-Please feel free to reachout to me by email or linkedin :)
+Please feel free to reachout to me by email or linkedin! :)
