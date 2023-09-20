@@ -28,6 +28,7 @@ linkedin_username: danielmyong
 
 # Build settings
 theme: minima
+skin: dark
 plugins:
   - jekyll-feed
 
