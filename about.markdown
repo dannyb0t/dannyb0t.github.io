@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Daniel Myong
+title: About
 permalink: /about/
 ---
 
