@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-6+ years in the InfoSec industry. 
+Daniel has 6+ years in the InfoSec industry. 
 
 Roles: Security Operation Center Lead/Analyst, Splunk Engineer and Consulting, Security Operations Engineer for Managed Detection & Response Services. 
 
