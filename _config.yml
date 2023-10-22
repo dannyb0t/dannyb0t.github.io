@@ -7,14 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: danielmyong
 
+theme:
+  minima
 plugins:
-  #- jekyll-feed
-  - jekyll-remote-theme
-remote_theme: jekyll/minima
-minima:
-  skin: dark
-header_pages:
-  - about.markdown
-  - { platform: linkedin, user_url: "https://linkedin.com/in/danielmyong"}`
+  - jekyll-feed
 exclude:
   - Gemfile.lock
