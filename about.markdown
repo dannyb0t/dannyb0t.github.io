@@ -17,6 +17,10 @@ Daniel has worked on Managed Detection & Response Tools, generating security con
 <b>Daniel participates in Ethical Hacking through CTFs on HackTheBox:</b> <br>
 <a href="https://app.hackthebox.com/profile/193356">Daniel's HacktheBox Profile</a>
 
+<b>Splunkbase App Developer:</b> <br>
+<a href="https://splunkbase.splunk.com/app/5287">HubSpot Alert Action</a> <br>
+Built various Client Apps i.e. custom API pulls/alert actions/devops operations, with over 60000+ downloads.
+
 <b>Daniel's Relevant Certifications:</b> <br>
 Splunk Core Certified Consultant <br>
 Splunk Enterprise Certified Architect <br>
