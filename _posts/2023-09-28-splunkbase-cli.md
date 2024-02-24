@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Downloading SplunkBase Apps with Three Commands
+title: Splunk - Downloading SplunkBase Apps via CLI
 comments: false
 ---
 

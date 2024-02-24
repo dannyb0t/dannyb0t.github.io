@@ -15,7 +15,7 @@ Daniel has worked with Fortune Global 500 clients on-site in various sectors on 
 Daniel has worked on Managed Detection & Response Tools, generating security content for actionable alerts/incidents for SOC team members. In addition, Daniel has deployed/automated configured applications via CI/CD pipelines, and consulted clients on data on-boarding tasks/requirements for MITRE ATT&CK based coverage. 
 
 <b>Daniel participates in Ethical Hacking through CTFs on HackTheBox:</b> <br>
-https://app.hackthebox.com/profile/193356
+<a href="https://app.hackthebox.com/profile/193356">Daniel's HacktheBox Profile</a>
 
 <b>Daniel's Relevant Certifications:</b> <br>
 Splunk Core Certified Consultant <br>
