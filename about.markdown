@@ -25,7 +25,7 @@ Built various Client Apps i.e. custom API pulls/alert actions/devops operations,
 Splunk Core Certified Consultant <br>
 Splunk Enterprise Certified Architect <br>
 Splunk Core Certified Admin <br>
-Splunk SOAR Certfied Automation Developer <br>
+Splunk SOAR Certified Automation Developer <br>
 CompTIA Security+ <br>
 Cribl Certified Observability Engineer (CCOE) User
 
