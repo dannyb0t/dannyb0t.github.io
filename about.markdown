@@ -3,7 +3,7 @@ layout: page
 title: About Daniel Myong
 permalink: /about/
 ---
-Daniel has over 6 years in the InfoSec industry, working with over 50+ Enterprise-level Clients through his career.
+Daniel has over 7 years in the InfoSec industry, working with over 80+ Enterprise-level Clients through his career.
 
 Daniel has worked with Fortune Global 500 clients on-site in various sectors on 3 month - 2 year engagements: <br>
 <b>Fortune 100 Financial Services</b> - Splunk Enterprise Security Content Development, Enrichment, & Data Normalization <br>
