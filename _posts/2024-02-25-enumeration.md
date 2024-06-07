@@ -21,7 +21,7 @@ Fping Active Checking a Subnet:
 ```
 fping -asgq 172.11.5.0/23
 ```
-Enumerate Users with Kerbrute:
+Enumerate AD Users with Kerbrute:
 ```
 kerbrute userenum -d <domain_name> --dc <dc_ip> jsmith.txt -o valid_ad_user_accounts
 ```
