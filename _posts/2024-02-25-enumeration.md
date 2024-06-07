@@ -14,9 +14,12 @@ tcpdump -i <interface>
 ```
 
 Responder for DNS requests to identify unique hosts
+
+Responder for LLMNR over UDP 5535 OR NBT-NS over UDP 137 to obtain NetNTLM Hash
 ```
 responder -I <interface> -A
 ```
+
 Fping Active Checking a Subnet:
 ```
 fping -asgq 172.11.5.0/23
