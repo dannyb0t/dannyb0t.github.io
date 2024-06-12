@@ -24,6 +24,11 @@ Fping Active Checking a Subnet:
 ```
 fping -asgq 172.11.5.0/23
 ```
+Enumerate hosts:
+```
+netdiscover -r <subnet> | awk '{print $1}'
+```
+
 Enumerate AD Users with Kerbrute:
 ```
 kerbrute userenum -d <domain_name> --dc <dc_ip> jsmith.txt -o valid_ad_user_accounts
@@ -34,4 +39,17 @@ Import-Module .\inveigh.ps1
 (Get-Command Invoke-Inveigh).Parameters
 Invoke-Inveigh Y -NBNS Y -ConsoleOutput Y -FileOutput Y
 ```
+With valid domain credentials, Using CrackMapExec to obtain the password policy
+```
+crackmapexec smb 172.10.5.5 -u <user> -p <password> --pass-pol
+```
+Establishing a null session from windows
+```
+net use \\DC01\ipc$ "" /u:""
+```
+View windows account errors:
+```
+net use \\DC01\ip$ "" /u:guest
+```
+
 
