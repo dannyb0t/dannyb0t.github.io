@@ -76,3 +76,7 @@ Find Domain Admins with windapsearch:
 ```
 python3 windapsearch.py --dc-ip <dc_ip> -u user@domain.local -p <password> --da
 ```
+Find credentials/sensitive data in AD with Snaffler.exe:
+```
+Snaffler.exe -s -d <domain>.local -o snaffler.log -v data
+```
