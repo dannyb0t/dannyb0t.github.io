@@ -62,4 +62,7 @@ Find-LAPSDelegatedGroups
 Find-AdmPwdExtendedRights
 Get-LAPSComputers
 ```
-
+If SMB Null sessions, use rpcclient to enumerate AD:
+```
+rpcclient -U "" -N <dc>
+```
