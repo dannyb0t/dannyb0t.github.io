@@ -66,3 +66,10 @@ If SMB Null sessions, use rpcclient to enumerate AD:
 ```
 rpcclient -U "" -N <dc>
 ```
+
+RPCClient Enumeration:
+```
+enumdomusers
+queryuser 0x444
+```
+
