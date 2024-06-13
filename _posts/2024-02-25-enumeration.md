@@ -72,4 +72,7 @@ RPCClient Enumeration:
 enumdomusers
 queryuser 0x444
 ```
-
+Find Domain Admins with windapsearch:
+```
+python3 windapsearch.py --dc-ip <dc_ip> -u user@domain.local -p <password> --da
+```
